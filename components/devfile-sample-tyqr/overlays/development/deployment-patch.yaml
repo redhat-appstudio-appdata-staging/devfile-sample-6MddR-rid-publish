@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/ktsao-tenant/devfile-sample/devfile-sample-tyqr@sha256:06851eca43b1d6a396937c1aac87db1f2fac7ed2e37b24fdebb4ce31e43df277
+      - image: quay.io/redhat-user-workloads-stage/ktsao-tenant/devfile-sample/devfile-sample-tyqr@sha256:34699a44fb87d3066d46b2d43cec3dd3896c3494165ad402c8175621fed92191
         name: container-image
         resources: {}
 status: {}
